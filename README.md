@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0003-longest-substring-without-repeating-characters](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
