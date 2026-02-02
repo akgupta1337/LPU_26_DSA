@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -57,5 +59,6 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
