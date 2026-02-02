@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
