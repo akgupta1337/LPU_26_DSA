@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0647-palindromic-substrings) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
