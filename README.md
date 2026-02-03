@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
@@ -74,14 +75,17 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
