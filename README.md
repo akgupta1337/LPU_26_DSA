@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0076-minimum-window-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
