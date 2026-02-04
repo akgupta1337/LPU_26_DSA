@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0647-palindromic-substrings) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
 |  |
@@ -92,10 +94,15 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0838-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
