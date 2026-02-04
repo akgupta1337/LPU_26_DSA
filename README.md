@@ -92,5 +92,10 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Linked List
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0908-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
