@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0345-reverse-vowels-of-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0647-palindromic-substrings) |
+| [0908-middle-of-the-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
