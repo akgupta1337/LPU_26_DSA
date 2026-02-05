@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0838-design-linked-list) |
