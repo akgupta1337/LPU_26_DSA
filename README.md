@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -87,18 +89,21 @@ A collection of LeetCode questions to ace the coding interviews!
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
