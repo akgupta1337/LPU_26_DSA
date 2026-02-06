@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0838-design-linked-list) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0146-lru-cache) |
 | [0838-design-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
