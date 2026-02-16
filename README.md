@@ -145,4 +145,20 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
