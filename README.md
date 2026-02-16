@@ -148,21 +148,25 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
