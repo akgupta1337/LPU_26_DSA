@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0975-range-sum-of-bst) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0975-range-sum-of-bst) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0975-range-sum-of-bst) |
