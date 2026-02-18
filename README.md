@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0783-search-in-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0226-invert-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -190,10 +194,12 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0783-search-in-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
