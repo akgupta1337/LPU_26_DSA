@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0345-reverse-vowels-of-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
