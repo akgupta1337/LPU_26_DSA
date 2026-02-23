@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0076-minimum-window-substring](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -229,8 +234,14 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
