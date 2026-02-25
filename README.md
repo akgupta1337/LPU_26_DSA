@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0098-validate-binary-search-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0975-range-sum-of-bst) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | ------- |
 | [0100-same-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0404-sum-of-left-leaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
