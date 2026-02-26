@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2058-concatenation-of-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
