@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews!
 | [0940-fruit-into-baskets](https://github.com/akgupta1337/LPU_26_DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1580-shuffle-the-array](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1720-crawler-log-folder](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1720-crawler-log-folder) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/akgupta1337/LPU_26_DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
